@@ -1,0 +1,12 @@
+.win, .lose{
+    color: white;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.win{
+    background: green;
+}
+.lose{
+    background: red;
+}
